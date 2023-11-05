@@ -117,7 +117,7 @@ namespace WindowsFormsApp_tamagotchi
                 }
                 pictureBox_hero.Image = skins[7];
                 label_name.Text = "Our condolences for your loss.....";
-                SynthesizeSpeechAsync(pets_name+" is dad. Our condolences for your loss.....");
+                SynthesizeSpeechAsync(pets_name+" is dead. Our condolences for your loss.....");
                 return;
             }
             int count = 0;
