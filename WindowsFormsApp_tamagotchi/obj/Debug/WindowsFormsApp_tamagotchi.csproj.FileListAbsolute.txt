@@ -1,0 +1,13 @@
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.Resource2.resources
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\bin\Debug\WindowsFormsApp_tamagotchi.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\bin\Debug\WindowsFormsApp_tamagotchi.exe
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\bin\Debug\WindowsFormsApp_tamagotchi.pdb
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.exe
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.pdb
+C:\Alla\C#_proj\WindowsFormsApp_tamagotchi\obj\Debug\WindowsFormsApp_tamagotchi.Form2.resources
